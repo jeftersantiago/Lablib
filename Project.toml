@@ -1,0 +1,10 @@
+name = "LabStatistics"
+uuid = "e4cd8cc4-8b83-4c76-bbc5-3a925ecd6ed2"
+authors = ["jefter66 <jeftersantiago@protonmail.com>"]
+version = "0.1.0"
+
+
+
+[compat]
+julia = "≥ 1.0.0"
+

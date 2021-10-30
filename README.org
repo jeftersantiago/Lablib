@@ -1,0 +1,10 @@
+#+TITLE: Lablib.jl
+* Welcome do =Lablib.jl= docs! :noexport:
+** What is =Lablib.jl= ?
+   =Lablib.jl= is a tool with the purpose of performing
+   calculations often needed in =physical measures=, like
+   uncertainty propagation.
+** References 
+* TODO
+  - Export results tabel in =LaTeX= 
+  - Uncertainty propagation.
