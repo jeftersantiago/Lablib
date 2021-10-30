@@ -5,6 +5,6 @@
    calculations often needed in =physical measures=, like
    uncertainty propagation.
 ** References 
-* TODO
+* TODO TODO 
   - Export results tabel in =LaTeX= 
   - Uncertainty propagation.
