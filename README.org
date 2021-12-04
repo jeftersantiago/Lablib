@@ -23,7 +23,7 @@
 ** Standart deviantion
 ** Least squares 
 *** Angular coeficient
-    #+attr: :width 4cm :height 4cm
+    #+attr_latex: :width 1cm :height 2cm
     [[./images/angularCoef.svg]]
 *** Linear coeficient
 *** Average dispersion
