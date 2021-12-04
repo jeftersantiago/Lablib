@@ -80,5 +80,4 @@ function leastSquares(x::AbstractArray,y::AbstractArray)
     @printf("(α ± Δα):  %.5f ± %.5f \n", angCoef,angCoefUncert)
     @printf("(b ± Δb):  %.5f ± %.5f \n", linCoef,linCoefUncert)
     print("-----------------------\n")
-
 end

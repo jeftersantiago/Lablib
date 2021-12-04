@@ -1,10 +1,40 @@
 #+TITLE: Lablib.jl
-* Welcome do =Lablib.jl= docs! :noexport:
+* Welcome do =Lablib.jl= docs! 
 ** What is =Lablib.jl= ?
    =Lablib.jl= is a tool with the purpose of performing
    calculations often needed in =physical measures=, like
    uncertainty propagation.
+   Although it uses =Measurements.jl=, some of functionalities
+   had to be build up in a way that made more sense for our use.
 ** References 
+   - [[https://github.com/JuliaPhysics/Measurements.jl][Measurements.jl]]
 * TODO TODO 
   - Export results tabel in =LaTeX= 
   - Uncertainty propagation.
+
+
+
+
+
+  
+
+* Features
+** Average deviantion    
+** Standart deviantion
+** Least squares 
+*** Angular coeficient
+*** Linear coeficient
+*** Average dispersion
+    
+To make all the computations for the least squares
+method just run:
+#+begin_src julia
+ julia> x = []
+ julia> y = []
+ leastSquares(x,y)
+#+end_src
+
+
+
+
+
