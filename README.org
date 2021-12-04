@@ -19,21 +19,18 @@
   
 
 * Features
-** Average deviantion    
-** Standart deviantion
+** Standart and average deviantion
+   With a list =x= run the command:
+   #+begin_src julia
+     deviation(x);
+   #+end_src
 ** Least squares 
-*** Angular coeficient
-    #+attr_latex: :width 1cm :height 2cm
-    [[./images/angularCoef.svg]]
-*** Linear coeficient
-*** Average dispersion
-    
-To make all the computations for the least squares
-method just run:
-#+begin_src julia
+   To make all the computations for the least squares
+   method just run:
+   #+begin_src julia
 leastSquares(x,y)
 #+end_src
-x, y are lists with same size.
+   x, y are lists with same size.
  
 
 
