@@ -23,8 +23,8 @@
 ** Standart deviantion
 ** Least squares 
 *** Angular coeficient
-    $$ a = \frac{\sum(x_i - \overline{x})y_i}{\sum(x_i - \overline{x})^2} $$
-
+    #+attr_latex: :width 1cm :height 2cm
+    [[./images/angularCoef.svg]]
 *** Linear coeficient
 *** Average dispersion
     
